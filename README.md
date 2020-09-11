@@ -1,7 +1,7 @@
 # pickle-dill
 ##### sauce hooked on <a target='_blank' href='https://github.com/zirs3d/pickle-dill'>github</a>
 
-Available on <a target='_blank' href='#'>greasyfork.org</a>
+Available on <a target='_blank' href='https://greasyfork.org/en/scripts/411227-pickle-dill'>greasyfork.org</a>
 
 This is the Pickle Dill edition for <a target='_blank' href='https://pickle.finance'>pickle.finance</a> 
 
